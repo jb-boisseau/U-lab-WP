@@ -1,0 +1,304 @@
+# Copyright (C) 2018 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-08 13:23:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Varun Dubey\n"
+"Language-Team: Wbcom Designs\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: admin/class-bp-add-group-types-admin.php:112
+msgid "Group Types Settings"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:112
+#: admin/class-bp-add-group-types-admin.php:164
+msgid "Group Types"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:122
+msgid "Group Types - BuddyPress"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:146
+msgid "General"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:182
+msgid "Group Type Search"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:200 bp-add-group-types.php:154
+msgid "Support"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:218
+msgid "Display Group Types"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:256
+#: admin/class-bp-add-group-types-admin.php:274
+#: admin/class-bp-add-group-types-admin.php:448
+msgid "Settings Saved."
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:321
+msgid "Group Type Added!"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:326
+msgid "Group Type With This Name/Slug Already Exists!"
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:355
+msgid "Group Type Deleted."
+msgstr ""
+
+#: admin/class-bp-add-group-types-admin.php:388
+msgid "Group Type Updated."
+msgstr ""
+
+#: admin/settings/bpgt-general-settings.php:20
+msgid "Pre-select Group Types"
+msgstr ""
+
+#: admin/settings/bpgt-general-settings.php:23
+msgid "Pre-select all the group types"
+msgstr ""
+
+#: admin/settings/bpgt-general-settings.php:24
+msgid ""
+"This setting will pre-select all the group types that get listed during "
+"group creation."
+msgstr ""
+
+#: admin/settings/bpgt-general-settings.php:30
+msgid "Enable Group Type Search"
+msgstr ""
+
+#: admin/settings/bpgt-general-settings.php:33
+msgid "Group type searching on front-end"
+msgstr ""
+
+#: admin/settings/bpgt-general-settings.php:34
+msgid ""
+"This setting will enable the group type searching on the "
+"<strong>domain.com/groups</strong> page."
+msgstr ""
+
+#: admin/settings/bpgt-general-settings.php:41
+#: admin/settings/bpgt-group-type-display-settings.php:50
+#: admin/settings/bpgt-group-type-search-settings.php:41
+msgid "Save Changes"
+msgstr ""
+
+#: admin/settings/bpgt-group-type-display-settings.php:22
+msgid "Display Group Type(s) as tab."
+msgstr ""
+
+#: admin/settings/bpgt-group-type-display-settings.php:43
+msgid "This setting will display group types as tab in frontend groups directory ."
+msgstr ""
+
+#: admin/settings/bpgt-group-type-search-settings.php:20
+msgid "Search Template Content"
+msgstr ""
+
+#: admin/settings/bpgt-group-type-search-settings.php:24
+msgid "Textbox"
+msgstr ""
+
+#: admin/settings/bpgt-group-type-search-settings.php:24
+msgid "BuddyPress Group Search Textbox."
+msgstr ""
+
+#: admin/settings/bpgt-group-type-search-settings.php:28
+msgid "Group Type Selectbox"
+msgstr ""
+
+#: admin/settings/bpgt-group-type-search-settings.php:32
+msgid "Both"
+msgstr ""
+
+#: admin/settings/bpgt-group-type-search-settings.php:34
+msgid "This setting will change the group search template in frontend."
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:48
+msgid "Search Group Types:"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:49
+msgid "Write here.."
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:50
+msgid "Search"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:59
+#: admin/settings/bpgt-group-types-listing-settings.php:77
+msgid "Add New Group Type"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:61
+#: admin/settings/bpgt-group-types-listing-settings.php:99
+#: admin/settings/bpgt-group-types-listing-settings.php:158
+msgid "Name"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:63
+msgid "The name is how it appears on your site."
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:66
+#: admin/settings/bpgt-group-types-listing-settings.php:109
+#: admin/settings/bpgt-group-types-listing-settings.php:164
+msgid "Slug"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:68
+msgid ""
+"The slug is the URL-friendly version of the name. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:71
+#: admin/settings/bpgt-group-types-listing-settings.php:104
+#: admin/settings/bpgt-group-types-listing-settings.php:171
+msgid "Description"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:73
+msgid ""
+"The description is not prominent by default; however, some themes may show "
+"it."
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:118
+msgid "Group Types Not Found!"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:133
+#: admin/settings/bpgt-group-types-listing-settings.php:154
+msgid "Edit"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:138
+msgid "Delete"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:180
+msgid "Cancel"
+msgstr ""
+
+#: admin/settings/bpgt-group-types-listing-settings.php:181
+msgid "Update Group Type"
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:16
+msgid "Have some questions?"
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:22
+msgid "What plugin does this plugin require?"
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:24
+msgid ""
+"As the name of the plugin justifies, this plugin helps create Group Types "
+"for BuddyPress Groups, this plugin requires BuddyPress plugin to be "
+"installed and active."
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:25
+msgid ""
+"You'll also get an admin notice and the plugin will become ineffective if "
+"the required plugin will not be there."
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:33
+msgid ""
+"How does\n"
+"                    Pre-select Group Types setting work provided in general "
+"setting section?"
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:40
+msgid ""
+"This setting will pre-select all the created group type while creating a "
+"new group."
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:48
+msgid ""
+"How does\n"
+"                    Enable Group Type Search setting work provided in "
+"general setting section?"
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:55
+msgid ""
+"This setting provide filter at domain.com/groups page for searching groups "
+"by created group types."
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:61
+msgid "How to a create group type?"
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:63
+msgid ""
+"A new group type can be created with help of interface provided at plugin "
+"settings page under Group Types tab section."
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:69
+msgid "How to go for any custom development?"
+msgstr ""
+
+#: admin/settings/bpgt-support-settings.php:71
+msgid ""
+"If you need additional help you can contact us for <a "
+"href=\"https://wbcomdesigns.com/contact/\" target=\"_blank\" title=\"Custom "
+"Development by Wbcom Designs\">Custom Development</a>."
+msgstr ""
+
+#: bp-add-group-types.php:110
+msgid ""
+"%1$s do not require %2$s to be installed and active as it contains "
+"functions of %3$s plugin."
+msgstr ""
+
+#: bp-add-group-types.php:122
+msgid "%1$s is ineffective as it requires %2$s to be installed and active."
+msgstr ""
+
+#: bp-add-group-types.php:138
+msgid "%1$s is ineffective now as it requires %2$s to be active."
+msgstr ""
+
+#: bp-add-group-types.php:153
+msgid "Settings"
+msgstr ""
+
+#: public/class-bp-add-group-types-public.php:122
+msgid "All Types"
+msgstr ""

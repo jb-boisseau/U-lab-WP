@@ -1,0 +1,249 @@
+# Translation of Themes - Lucienne in French (France)
+# This file is distributed under the same license as the Themes - Lucienne package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-19 15:36:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Lucienne\n"
+
+#. Description of the plugin/theme
+msgid "Lucienne is a stylish, elegant and minimal WordPress theme designed for blogs and online shops. It uses whitespace and beautiful typography to present your words, images and products in style. The homepage features a post carousel which lets you highlight posts from a category on your blog, you can choose the number of posts and also hide this if required. The homepage has widgetized areas at the top and bottom so you can add custom content if required. Lucienne works alongside WooCommerce for the shop functionality and also includes styling for other popular plugins like contact form7, Jetpack, Gravity forms and more. Get 20 more themes, Theme Upgrades and Customer Support for this theme at https://themefurnace.com"
+msgstr "Lucienne est un thème WordPress stylé, élégant et minimaliste, conçu pour les blogs et les boutiques en ligne. Il utilise les espacements et une belle typographie pour présenter vos textes, images et produits avec style. La page d’accueil met en avant un diaporama d’articles qui vous permet de mettre en lumière les articles d’une catégorie de votre blog, avec la possibilité de choisir un nombre d’articles à afficher ou de cacher cela si besoin. La page d’accueil dispose d’emplacements pour les widgets en haut et en bas pour que vous puissiez y placer du contenu personnalisé si besoin. Lucienne supporte WooCommerce pour ajouter la fonctionnalité de boutique en ligne et inclue aussi la mise en forme d’autres extensions populaires comme Contact Form 7, Jetpack, Gravity Forms et d’autres encore. Retrouvez 20 thèmes supplémentaires, les mises à jour de thèmes et un support client pource thème sur https://themefurnace.com."
+
+#. Theme Name of the plugin/theme
+msgid "Lucienne"
+msgstr "Lucienne"
+
+#. Template Name of the plugin/theme
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebars"
+msgstr "Pas de colonne latérale"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:32
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que vous ne pouvez  trouver ce que vous souhaitez. Peut-être qu’une recherche pourrait vous aider."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à l’expression recherchée. Veuillez essayer à nouveau avec d’autres mots-clés."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Aucun contenu trouvé"
+
+#: template-parts/carousel.php:27
+msgid "Continue Reading"
+msgstr "Poursuivre la lecture"
+
+#: single.php:20
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">Publication précédente</span> %title"
+
+#: single.php:20
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr "<span class=\"meta-nav\">Publication suivante</span> %title"
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:73 inc/template-tags.php:79
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:35
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: inc/template-tags.php:35
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: inc/template-tags.php:35
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/customizer.php:116
+msgid "Number of posts"
+msgstr "Nombre de publications"
+
+#: inc/customizer.php:95
+msgid "Category"
+msgstr "Catégorie"
+
+#: inc/customizer.php:87
+msgid "No"
+msgstr "Non"
+
+#: inc/customizer.php:87
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/customizer.php:83
+msgid "Show Post Carousel"
+msgstr "Afficher le diaporama d’articles"
+
+#: inc/customizer.php:60
+msgid "Carousel Settings"
+msgstr "Réglages du diaporama"
+
+#: inc/customizer.php:33
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Sélectionner &mdash;"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:303
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#: functions.php:290 inc/template-tags.php:39 inc/template-tags.php:87
+#: template-parts/content-page.php:26
+msgid "Edit"
+msgstr "Modifier"
+
+#: functions.php:287
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:206
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:200
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Playfair, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:194
+msgctxt "Playfair font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:147
+msgid "Footer Sidebar 3"
+msgstr "Pied de page 3"
+
+#: functions.php:138
+msgid "Footer Sidebar 2"
+msgstr "Pied de page 2"
+
+#: functions.php:129
+msgid "Footer Sidebar 1"
+msgstr "Pied de page 1"
+
+#: functions.php:120
+msgid "Homepage Bottom"
+msgstr "Bas de la page d’accueil"
+
+#: functions.php:112
+msgid "Homepage Top"
+msgstr "Haut de la page d’accueil"
+
+#: functions.php:104
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:61
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: functions.php:60
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:47
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème : %1$s par %2$s."
+
+#: footer.php:47
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:47
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:98
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:56 comments.php:85
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:53 comments.php:82
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:49 comments.php:78
+msgid "Comment navigation"
+msgstr "Navigation dans les commentaires"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réponse à « %2$s »"
+msgstr[1] "%1$s réponses à « %2$s »"
+
+#. translators: %s: post title
+#: comments.php:29
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Une réponse à « %s »"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Il semblerait que rien n’a été trouvé à cet emplacement. Essayez peut-être d’effectuer une recherche ?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page n’a pas pu être trouvée."
+
+#. Author URI of the plugin/theme
+msgid "http://themefurnace.com"
+msgstr "http://themefurnace.com"
+
+#. Author of the plugin/theme
+msgid "ThemeFurnace"
+msgstr "ThemeFurnace"
+
+#. Theme URI of the plugin/theme
+msgid "https://themefurnace.com/lucienne-theme"
+msgstr "https://themefurnace.com/lucienne-theme"

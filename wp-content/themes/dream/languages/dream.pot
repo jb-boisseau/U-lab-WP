@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream\n"
+"POT-Creation-Date: 2018-05-10 15:11+0800\n"
+"PO-Revision-Date: 2018-05-10 15:11+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: comments.php:24
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:24
+msgid "One Comments"
+msgstr ""
+
+#: comments.php:24 inc/template-tags.php:43 inc/template-tags.php:47
+#: page.php:59 page.php:63
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:54
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:55
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:59
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:36
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer menu"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Blog Pagination or Navigation"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Hide Header Title Text"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "One column"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Use Excerpt or \"Read More tag\""
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Read More tag"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Excerpt Length (Number of Words)"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Show \"Back to top\" button"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Enable hover effects when you hover on featured images"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Show date"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Show author"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Show comments counter"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Show categories"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Show tags"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Show post navigation (single post page)"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Show \"About the author\" block (single post page)"
+msgstr ""
+
+#: inc/customizer.php:308
+msgid "Social Links & RSS"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "VK URL"
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/customizer.php:419
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer.php:435
+msgid "500px URL"
+msgstr ""
+
+#: inc/customizer.php:451
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/customizer.php:467
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "SoundCloud URL"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/customizer.php:515
+msgid "Behance URL"
+msgstr ""
+
+#: inc/customizer.php:531
+msgid "GitHub URL"
+msgstr ""
+
+#: inc/customizer.php:547
+msgid "RSS URL"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:575
+msgid "Check to activate slider"
+msgstr ""
+
+#: inc/customizer.php:594
+msgid "Image Upload #1"
+msgstr ""
+
+#: inc/customizer.php:595 inc/customizer.php:663 inc/customizer.php:731
+#: inc/customizer.php:799
+msgid "Upload slider image"
+msgstr ""
+
+#: inc/customizer.php:611 inc/customizer.php:679 inc/customizer.php:747
+#: inc/customizer.php:815
+msgid "Enter title for your slider"
+msgstr ""
+
+#: inc/customizer.php:627 inc/customizer.php:695 inc/customizer.php:763
+#: inc/customizer.php:831
+msgid "Enter your slider description"
+msgstr ""
+
+#: inc/customizer.php:643 inc/customizer.php:711 inc/customizer.php:779
+#: inc/customizer.php:847
+msgid "Enter link to redirect slider when clicked"
+msgstr ""
+
+#: inc/customizer.php:662
+msgid "Image Upload #2"
+msgstr ""
+
+#: inc/customizer.php:730
+msgid "Image Upload #3"
+msgstr ""
+
+#: inc/customizer.php:798
+msgid "Image Upload #4"
+msgstr ""
+
+#: inc/customizer.php:860
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:876
+msgid "Show \"Social Links & RSS\" block"
+msgstr ""
+
+#: inc/customizer.php:891
+msgid "Show \"Footer menu\" block"
+msgstr ""
+
+#: inc/template-comments.php:13
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-comments.php:13 inc/template-comments.php:27
+msgid "Edit"
+msgstr ""
+
+#: inc/template-comments.php:26
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-comments.php:48
+msgid "Your Name"
+msgstr ""
+
+#: inc/template-comments.php:49
+msgid "Your Email"
+msgstr ""
+
+#: inc/template-comments.php:50
+msgid "Your Website"
+msgstr ""
+
+#: inc/template-comments.php:57
+msgid "Your comment"
+msgstr ""
+
+#: inc/template-functions.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-functions.php:119
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-tags.php:43 page.php:59
+msgid "No Comments"
+msgstr ""
+
+#: inc/template-tags.php:43 inc/template-tags.php:47 page.php:59 page.php:63
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:90
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:105
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:106
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgid "Older comments"
+msgstr ""
+
+#: inc/template-tags.php:124
+msgid "Newer comments"
+msgstr ""
+
+#: inc/template-tags.php:154
+msgid " Posts"
+msgstr ""
+
+#: inc/template-tags.php:160
+msgid "View all author&rsquo;s posts"
+msgstr ""
+
+#: inc/template-widgets.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: inc/template-widgets.php:12
+msgid "Add widgets here."
+msgstr ""
+
+#: page.php:80 single.php:53 template-parts/content-audio.php:37
+#: template-parts/content-gallery.php:28 template-parts/content-video.php:37
+#: template-parts/content.php:24
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""

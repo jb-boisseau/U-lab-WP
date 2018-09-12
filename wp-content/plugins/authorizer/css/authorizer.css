@@ -1,0 +1,582 @@
+.toplevel_page_authorizer #wpbody-content > .wrap,
+.settings_page_authorizer #wpbody-content > .wrap {
+	background: url("../images/banner-772x250.jpg") repeat-x 5px -35px;
+	margin-left: -20px;
+	margin-right: 0;
+	padding-left: 20px;
+	padding-right: 0;
+}
+.network-admin.toplevel_page_authorizer #wpbody-content > .wrap,
+.network-admin.settings_page_authorizer #wpbody-content > .wrap {
+	background: url("../images/banner-772x250.jpg") repeat-x 5px -15px;
+	margin-top: 0;
+}
+.network-admin.toplevel_page_authorizer #wpbody-content > div.update-nag ~ .wrap > form > h2,
+.network-admin.settings_page_authorizer #wpbody-content > div.update-nag ~ .wrap > form > h2 {
+	visibility: hidden;
+}
+.network-admin.toplevel_page_authorizer #wpbody-content > .wrap > form > h2,
+.network-admin.settings_page_authorizer #wpbody-content > .wrap > form > h2 {
+	padding-top: 50px;
+}
+.network-admin.toplevel_page_authorizer #wpbody-content > .wrap > form > .wrap,
+.network-admin.settings_page_authorizer #wpbody-content > .wrap > form > .wrap {
+	margin-top: 1px;
+}
+.toplevel_page_authorizer #wpbody-content > div.update-nag ~ .wrap,
+.settings_page_authorizer #wpbody-content > div.update-nag ~ .wrap {
+	margin-top: -66px;
+}
+.toplevel_page_authorizer #wpbody-content > .wrap > h2,
+.settings_page_authorizer #wpbody-content > .wrap > h2 {
+	margin: -10px 0 58px 15px;
+	padding-top: 80px;
+	font-size: 290%;
+	text-shadow: 1px 1px 3px #8d8d8d;
+}
+.toplevel_page_authorizer #wpbody-content > .wrap > .updated,
+.settings_page_authorizer #wpbody-content > .wrap > .updated {
+	margin: -43px 10px 5px;
+}
+
+.toplevel_page_authorizer #wpbody-content > .wrap > .notice,
+.settings_page_authorizer #wpbody-content > .wrap > .notice {
+	margin: -40px 10px 2px;
+}
+
+.toplevel_page_authorizer #wpbody-content > .wrap > .notice ~ .updated,
+.settings_page_authorizer #wpbody-content > .wrap > .notice ~ .updated {
+	margin-top: 7px;
+}
+
+.toplevel_page_authorizer #wpbody-content > .wrap > form > h2 {
+	margin: 0 0 13px 15px;
+	padding-top: 8px;
+	font-size: 290%;
+	text-shadow: 1px 1px 3px #8d8d8d;
+}
+.toplevel_page_authorizer #wpbody-content > .wrap > form > p {
+	width: 375px;
+}
+.toplevel_page_authorizer #wpbody-content > .wrap > form > div.updated {
+	margin: -43px 10px 5px;
+}
+
+.toplevel_page_authorizer .nav-tab-wrapper,
+.settings_page_authorizer .nav-tab-wrapper {
+	margin-left: -20px !important;
+	padding-left: 30px !important;
+}
+
+.toplevel_page_authorizer .nav-tab,
+.settings_page_authorizer .nav-tab {
+	opacity: 0.7;
+}
+.toplevel_page_authorizer .nav-tab-active,
+.settings_page_authorizer .nav-tab-active {
+	opacity: 1.0;
+}
+
+.toplevel_page_authorizer .ms-container .ms-selectable,
+.toplevel_page_authorizer .ms-container .ms-selection,
+.settings_page_authorizer .ms-container .ms-selectable,
+.settings_page_authorizer .ms-container .ms-selection {
+	background-color: transparent;
+}
+.toplevel_page_authorizer .ms-list,
+.settings_page_authorizer .ms-list {
+	background-color: white;
+}
+
+.toplevel_page_authorizer .ms-list li,
+.settings_page_authorizer .ms-list li {
+	margin-bottom: 0;
+}
+
+.toplevel_page_authorizer .ms-container,
+.settings_page_authorizer .ms-container {
+	background-position-x: 250px;
+}
+
+.toplevel_page_authorizer .ms-container ul.ms-list,
+.settings_page_authorizer .ms-container ul.ms-list {
+	width: 240px;
+}
+
+.toplevel_page_authorizer .spinner,
+.settings_page_authorizer .spinner {
+	margin: 4px 5px 0 5px;
+}
+.toplevel_page_authorizer .spinner .spinner-text,
+.settings_page_authorizer .spinner .spinner-text,
+#auth_dashboard_widget .spinner .spinner-text {
+	color: green;
+	margin-left: 22px;
+	vertical-align: middle;
+}
+
+.toplevel_page_authorizer .wrapper_access_users_pending,
+.settings_page_authorizer .wrapper_access_users_pending,
+.toplevel_page_authorizer .wrapper_access_users_approved,
+.settings_page_authorizer .wrapper_access_users_approved,
+.toplevel_page_authorizer .wrapper_access_users_blocked,
+.settings_page_authorizer .wrapper_access_users_blocked {
+	width: fit-content;
+}
+
+.toplevel_page_authorizer .tablenav .tablenav-pages,
+.settings_page_authorizer .tablenav .tablenav-pages {
+	float: right;
+}
+
+.toplevel_page_authorizer .tablenav .search-box,
+.settings_page_authorizer .tablenav .search-box {
+	float: right;
+	overflow: hidden;
+	padding: 2px 8px 0 0;
+}
+
+div.section_info, div.section_info ~ table {
+	display: none;
+}
+
+#section_info_access_lists ~ table .animated_wrapper {
+	/* slightly smaller so the shake animation doesn't create a horizontal scroll bar */
+	width: 95%;
+}
+
+.auth-email {
+	width: 190px;
+}
+
+.auth-role {
+	width: 120px;
+}
+
+.auth-usermeta {
+	width: 140px;
+}
+
+#new_approved_user_email {
+	vertical-align: top;
+	width: 191px;
+}
+
+.auth-date-added {
+	width: 80px;
+}
+
+/* Grow email and role fields on large sizes */
+@media only screen and (min-width: 1200px) {
+	.auth-email {
+		width: 240px;
+	}
+	.auth-role {
+		width: 170px;
+	}
+	#new_approved_user_email {
+		width: 241px;
+	}
+}
+
+
+.auth-multisite-username,
+.auth-multisite-email,
+.auth-multisite-role,
+.auth-multisite-usermeta,
+.auth-multisite-date-added {
+	opacity: 0.5;
+}
+
+#auth_dashboard_widget > .inside {
+	margin-top: 0;
+}
+
+#auth_dashboard_widget input[type="text"],
+#auth_dashboard_widget select,
+#auth_dashboard_widget textarea {
+	font-size: 90%;
+	width: 14%;
+}
+
+#auth_dashboard_widget input[type="radio"] {
+	margin: 0 0 6px;
+}
+
+#auth_dashboard_widget #list_auth_settings_access_users_pending .auth-email,
+#auth_dashboard_widget #list_auth_settings_access_users_approved .auth-email,
+#auth_dashboard_widget #new_approved_user_email,
+#auth_dashboard_widget #list_auth_settings_access_users_blocked .auth-email,
+#auth_dashboard_widget #new_blocked_user_email {
+	width: 130px;
+}
+
+#auth_dashboard_widget .auth-date-added {
+	width: 70px;
+}
+
+/* Make sure pager fits in dashboard widget */
+#auth_dashboard_widget .tablenav {
+	height: auto;
+}
+#auth_dashboard_widget .tablenav-pages {
+	float: none;
+	width: 100%;
+	margin-bottom: 4px;
+}
+
+
+/* Shrink dashboard widget elements on small sizes */
+@media only screen and (max-width: 1090px) {
+	#auth_dashboard_widget #list_auth_settings_access_users_pending .auth-email,
+	#auth_dashboard_widget #list_auth_settings_access_users_approved .auth-email,
+	#auth_dashboard_widget #new_approved_user_email,
+	#auth_dashboard_widget #list_auth_settings_access_users_blocked .auth-email,
+	#auth_dashboard_widget #new_blocked_user_email {
+		width: 20%;
+	}
+	#auth_dashboard_widget select.auth-role {
+		width: 18%;
+	}
+}
+
+#list_auth_settings_access_users_pending .auth-email,
+#list_auth_settings_access_users_pending .auth-role {
+	border-color: #ecf195;
+	background-color: #f5f8c4;
+}
+
+#list_auth_settings_access_users_approved {
+	margin: 0;
+}
+
+#list_auth_settings_access_users_approved .auth-email,
+#list_auth_settings_access_users_approved .auth-role,
+#list_auth_settings_access_users_approved .auth-date-added,
+#list_auth_settings_access_users_approved .auth-usermeta,
+#new_auth_settings_access_users_approved .auth-email,
+#new_auth_settings_access_users_approved .auth-role {
+	background-color: #dcf0be;
+	border-color: #8dc33c;
+}
+
+#list_auth_settings_access_users_blocked .auth-email,
+#list_auth_settings_access_users_blocked .auth-date-added,
+#list_auth_settings_access_users_blocked .auth-usermeta,
+#new_auth_settings_access_users_blocked .auth-email {
+	background-color: #facbc5;
+	border-color: #ea7e70;
+}
+#list_auth_settings_access_users_blocked .auth-role,
+#new_auth_settings_access_users_blocked .auth-role {
+	display: none;
+}
+
+#list_auth_settings_access_users_approved .auth-multisite-user {
+	margin-left: 5px;
+}
+#list_auth_settings_access_users_approved .auth-usermeta + .button.update-usermeta {
+	display: none;
+	height: 23px;
+	margin: 3px 4px 3px -33px;
+	vertical-align: top !important;
+	width: 26px;
+}
+
+/**
+ * Overlays
+ */
+.auth_multisite_override_overlay .overlay-note {
+	background: white;
+	border: 1px solid #aaa;
+	cursor: default;
+	margin: 11px 15em;
+	opacity: 0;
+	padding: 8px;
+	position: absolute;
+	-webkit-transition: opacity 0.1s ease-in-out;
+	-moz-transition: opacity 0.1s ease-in-out;
+	transition: opacity 0.1s ease-in-out;
+}
+.auth_multisite_override_overlay .overlay-note a {
+	cursor: pointer;
+}
+.auth_multisite_override_overlay:hover .overlay-note {
+	opacity: 1;
+}
+
+/**
+ * Portions below from Bootstrap
+ * http://getbootstrap.com/getting-started/#download
+ */
+
+.sr-only {
+	border: 0;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}
+
+
+.caret {
+	border-left: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-top: 4px solid;
+	display: inline-block;
+	height: 0;
+	margin-left: 2px;
+	vertical-align: middle;
+	width: 0;
+}
+.dropdown {
+	position: relative;
+}
+.dropdown-toggle:focus {
+	outline: 0;
+}
+.dropdown-menu {
+	background-clip: padding-box;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border: 1px solid rgba(0, 0, 0, .15);
+	border-radius: 4px;
+	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+					box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+	display: none;
+	float: left;
+	font-size: 14px;
+	left: 0;
+	list-style: none;
+	margin: 2px 0 0;
+	min-width: 160px;
+	padding: 5px 0;
+	position: absolute;
+	top: 100%;
+	z-index: 1000;
+}
+.dropdown-menu.pull-right {
+	left: auto;
+	right: 0;
+}
+.dropdown-menu .divider {
+	background-color: #e5e5e5;
+	height: 1px;
+	margin: 9px 0;
+	overflow: hidden;
+}
+.dropdown-menu > li > a {
+	clear: both;
+	color: #333;
+	display: block;
+	font-weight: normal;
+	line-height: 1.42857143;
+	padding: 3px 20px;
+	white-space: nowrap;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+	background-color: #f5f5f5;
+	color: #262626;
+	text-decoration: none;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+	background-color: #428bca;
+	color: #fff;
+	outline: 0;
+	text-decoration: none;
+}
+.dropdown-menu > .disabled > a,
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+	color: #999;
+}
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+	background-color: transparent;
+	background-image: none;
+	cursor: not-allowed;
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+	text-decoration: none;
+}
+.open > .dropdown-menu {
+	display: block;
+}
+.open > a {
+	outline: 0;
+}
+
+
+.btn-group,
+.btn-group-vertical {
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+}
+.btn-group > .btn,
+.btn-group-vertical > .btn {
+	float: left;
+	position: relative;
+}
+.btn-group > .btn:hover,
+.btn-group-vertical > .btn:hover,
+.btn-group > .btn:focus,
+.btn-group-vertical > .btn:focus,
+.btn-group > .btn:active,
+.btn-group-vertical > .btn:active,
+.btn-group > .btn.active,
+.btn-group-vertical > .btn.active {
+	z-index: 2;
+}
+.btn-group > .btn:focus,
+.btn-group-vertical > .btn:focus {
+	outline: none;
+}
+.btn-group .btn + .btn,
+.btn-group .btn + .btn-group,
+.btn-group .btn-group + .btn,
+.btn-group .btn-group + .btn-group {
+	margin-left: -1px;
+}
+.btn-toolbar {
+	margin-left: -5px;
+}
+.btn-toolbar .btn-group,
+.btn-toolbar .input-group {
+	float: left;
+}
+.btn-toolbar > .btn,
+.btn-toolbar > .btn-group,
+.btn-toolbar > .input-group {
+	margin-left: 5px;
+}
+.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle) {
+	border-radius: 0;
+}
+.btn-group > .btn:first-child {
+	margin-left: 0;
+}
+.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+}
+.btn-group > .btn:last-child:not(:first-child),
+.btn-group > .dropdown-toggle:not(:first-child) {
+	border-bottom-left-radius: 0;
+	border-top-left-radius: 0;
+}
+.btn-group > .btn-group {
+	float: left;
+}
+.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn {
+	border-radius: 0;
+}
+.btn-group > .btn-group:first-child > .btn:last-child,
+.btn-group > .btn-group:first-child > .dropdown-toggle {
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+}
+.btn-group > .btn-group:last-child > .btn:first-child {
+	border-bottom-left-radius: 0;
+	border-top-left-radius: 0;
+}
+.btn-group .dropdown-toggle:active,
+.btn-group.open .dropdown-toggle {
+	outline: 0;
+}
+.btn-group > .btn + .dropdown-toggle {
+	padding-left: 8px;
+	padding-right: 8px;
+}
+.btn-group > .btn-lg + .dropdown-toggle {
+	padding-left: 12px;
+	padding-right: 12px;
+}
+.btn-group.open .dropdown-toggle {
+	-webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+					box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+}
+.btn-group.open .dropdown-toggle.btn-link {
+	-webkit-box-shadow: none;
+					box-shadow: none;
+}
+.btn .caret {
+	margin-left: 0;
+}
+
+
+/* Override a strange WordPress style that causes text to jump */
+.form-table td .button-primary.active,
+.form-table td .button-primary:active,
+.form-table td .button-primary:focus,
+.form-table td .button-primary:hover {
+	vertical-align: baseline;
+}
+
+/* Busy cursor for ajax calls */
+html.busy, html.busy * {
+	cursor: wait !important;
+}
+
+@font-face {
+	font-family: 'Glyphicons Halflings';
+
+	src: url('../vendor/bootstrap/fonts/glyphicons-halflings-regular.eot');
+	src: url('../vendor/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../vendor/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('../vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../vendor/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+.glyphicon {
+	display: inline-block;
+	font-family: 'Glyphicons Halflings';
+	-webkit-font-smoothing: antialiased;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-moz-osx-font-smoothing: grayscale;
+	position: relative;
+	top: 1px;
+}
+.glyphicon-user:before {
+	content: "\e008";
+}
+.glyphicon-globe:before {
+	content: "\e135";
+}
+.glyphicon-ok:before {
+	content: "\e013";
+}
+.glyphicon-ban-circle:before {
+	content: "\e090";
+}
+.glyphicon-remove-circle:before {
+	content: "\e088";
+}
+.glyphicon-remove:before {
+	content: "\e014";
+}
+.glyphicon-floppy-saved:before {
+	content: "\e173";
+}
+
+/**
+ * Bootstrap customizations (typically because of conflicts with WordPress styles)
+ */
+.dropdown-menu > li {
+	margin-bottom: 0;
+}
+.dropdown-menu > li > a {
+	text-decoration: none;
+	white-space: normal; /* Allow text to wrap to multiple lines */
+}
+
+/**
+ * Help text styling.
+ */
+.helper {
+	font-size: 0.8em;
+	font-style: italic;
+}

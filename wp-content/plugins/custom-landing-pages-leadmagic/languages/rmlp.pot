@@ -1,0 +1,407 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-08 05:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: includes/class-rmlp-ui-strings.php:14
+msgid "LeadMagic"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:16
+msgid "Add"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:18
+msgid "Add New"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:20
+msgid "Edit"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:22
+msgid "VIEW"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:24
+msgid "No Record Found"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:26
+msgid "Image"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:28
+msgid "Landing Page Data"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:30
+msgid "Required Field"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:32
+msgid "Enable Page Loader"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:34
+msgid "Loader Background Color"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:36
+msgid "Loader Icon"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:38
+msgid "Text"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:40
+msgid "Icon"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:42
+msgid "Select Icon"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:44
+msgid "Content"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:46
+msgid "Color"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:48
+msgid "Size"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:50
+msgid "Background Color"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:52
+msgid "Home Page Link"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:54
+msgid "Home Page Link Text"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:56
+msgid "Link Color"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:58
+msgid "Page Animation"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:60
+msgid "Include Site Header & Footer"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:62
+msgid "Include Site Footer"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:64
+msgid "Page Background"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:66
+msgid "Color Overlay"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:68
+msgid "Background Image"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:70
+msgid "Background Image Overlay"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:72
+msgid "Browse"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:74
+msgid "Logo"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:76
+msgid "Main Header"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:78
+msgid "Sub-Header"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:80
+msgid "Main Text"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:82
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:84
+msgid "Image Caption"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:86
+msgid "Remove"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:88
+msgid "Caption Text"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:90
+msgid "Form Header"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:92
+msgid "Select Form"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:94
+msgid "Bottom Area"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:96
+msgid "Bottom Area Text"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:98
+msgid "Header Text"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:100
+msgid "Show alert while closing window"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:102
+msgid "Alert Message"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:104
+msgid "Show alert while navigating away"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:106
+msgid ""
+"Show a loading screen while the landing page loads in the background. This "
+"helps in providing consistent user experience."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:108
+msgid ""
+"Select the background color of the page on which the loading text or icon "
+"will be displayed."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:110
+msgid "Select between an icon or your own custom text."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:112
+msgid "Text to be displayed while landing page is loading."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:114
+msgid "Color of the text."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:116
+msgid "Font size of the text (in px)"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:118
+msgid ""
+"Display a sticky top bar with a custom link on top of the landing page. This "
+"only works with theme header turned off."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:120
+msgid "Background color of the menu bar."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:122
+msgid ""
+"URL associated with the menu link on the menu bar. It can be home page link "
+"etc."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:124
+msgid "Anchor text of the link."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:126
+msgid "Text color of the link anchor text."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:128
+msgid ""
+"Display a smooth CSS3 animation when the page appears for the first time."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:130
+msgid ""
+"Turn on, if you want to display your theme's header and footer areas above "
+"and below the landing page respectively."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:132
+msgid ""
+"Decide between solid color or a custom image to be displayed behind the "
+"landing page."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:134
+msgid "Color of the background."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:136
+msgid ""
+"Select image to be displayed in the background. it will file the complete "
+"background space."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:138
+msgid "Define a color overlay above the background image."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:140
+msgid "Display your logo on top of the landing page."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:143
+msgid "Select the logo image file."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:145
+msgid "Main text or title of your landing page in Max 50 characters."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:147
+msgid "A subtitle for your page in maximum 200 characters."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:149
+msgid "Long text for your landing page usually containing sales pitch."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:151
+msgid "Display a full width image below the text. Maximum height 300px."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:153
+msgid "Display a caption above the image, like product name, credits etc."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:155
+msgid "Text of the caption above the image."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:157
+msgid "Large text above the form, like an action call"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:159
+msgid ""
+"Select the form which you want to display on the landing page. Form "
+"properties will be automatically applied."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:161
+msgid "Display an additional bottom section with text below the form."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:163
+msgid "Text of the bottom section header."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:165
+msgid "Long text for the bottom section"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:167
+msgid "Display a browser alert when user tries to navigate away from the page."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:169
+msgid "RegistrationMagic Form"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:171
+msgid "Custom Shortcode"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:173
+msgid ""
+"Add thirdparty Shortcode of the form which you want to display on the "
+"landing page."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:175
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:177
+msgid "Add CSS to change page appearance. <br>Note*: Do not use style tag. "
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:179
+msgid ""
+"Enter a search term above to begin searching images from <a "
+"target=\"_blank\" href=\"http://unsplash.com\">unsplash.com</a>. You can "
+"search for single terms or join terms using the [+] symbol."
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:181
+msgid "Search"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:183
+msgid "More Photos"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:185
+msgid "Choose Image from Unsplash"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:187
+msgid "WordPress Media"
+msgstr ""
+
+#: includes/class-rmlp-ui-strings.php:189
+msgid "NO STRING FOUND"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Give your forms a complete makeover! Display them in all their glory with "
+"additional headlines, pitch, background and featured image, and much more. "
+"While it is designed to work with RegistrationMagic Plugin, you are free to "
+"use any other form plugin that uses shortcodes – like Contact Form 7"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://registrationmagic.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "RegistrationMagic"
+msgstr ""

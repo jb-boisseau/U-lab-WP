@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress for Sensei v1.1.1\n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2017-09-29 17:35:47+00:00\n"
+"PO-Revision-Date: 2016-07-15 15:00+0600\n"
+"Last-Translator: Airat Halitov <airat.halitov@gmail.com>\n"
+"Language-Team: Airat Halitov <airat.halitov@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: sensei-buddypress.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin.php:134
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: includes/admin.php:136
+msgid "Visibility"
+msgstr "Видимость"
+
+#: includes/admin.php:137
+msgid "User Roles"
+msgstr "Роли пользователей"
+
+#: includes/admin.php:150 includes/admin.php:202
+msgid "BuddyPress for Sensei"
+msgstr "BuddyPress for Sensei"
+
+#: includes/admin.php:150
+msgid "BP for Sensei"
+msgstr "BP for Sensei"
+
+#: includes/admin.php:166
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin.php:216
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/admin.php:231
+msgid "Display <em>Profile > Courses</em> content publicly"
+msgstr "Отображать контент <em>Профиль > Курсы</em>публично"
+
+#: includes/admin.php:241
+msgid "Convert subscribers to user role Student"
+msgstr "Конвертировать подписчиков в роль Student"
+
+#: includes/admin.php:251
+msgid "Convert teachers to user role Teacher"
+msgstr "Конвертировать учителей в роль Teacher"
+
+#: includes/bp-sensei-courses.php:16 includes/bp-sensei-functions.php:32
+msgid "Active Courses"
+msgstr "Активные курсы"
+
+#: includes/bp-sensei-courses.php:32 includes/bp-sensei-functions.php:50
+msgid "Completed Courses"
+msgstr "Завершенные курсы"
+
+#: includes/bp-sensei-functions.php:14
+msgid "Courses"
+msgstr "Курсы"
+
+#: includes/bp-sensei-functions.php:23
+msgid "courses"
+msgstr "courses"
+
+#: includes/bp-sensei-functions.php:41
+msgid "active-courses"
+msgstr "active-courses"
+
+#: includes/bp-sensei-functions.php:59
+msgid "Create a Course"
+msgstr "Создать курс"
+
+#: includes/bp-sensei-functions.php:68
+msgid "completed-courses"
+msgstr "completed-courses"
+
+#: includes/bp-sensei-functions.php:77
+msgid "create-courses"
+msgstr "create-courses"
+
+#: includes/bp-sensei-functions.php:295 includes/bp-sensei-functions.php:503
+msgid "by "
+msgstr "от "
+
+#: includes/bp-sensei-functions.php:299 includes/bp-sensei-functions.php:507
+#: includes/bp-sensei-group-experiences.php:146
+#: includes/bp-sensei-group-experiences.php:164
+msgid "Lessons"
+msgstr "Уроки"
+
+#: includes/bp-sensei-functions.php:302 includes/bp-sensei-functions.php:510
+msgid "in %s"
+msgstr "в %s"
+
+#: includes/bp-sensei-functions.php:308
+msgid "%1$d of %2$d lessons completed"
+msgstr "%1$d из %2$d уроков завершено"
+
+#: includes/bp-sensei-functions.php:335
+msgid "Mark as Complete"
+msgstr "Пометить завершенным"
+
+#: includes/bp-sensei-functions.php:348
+msgid "Delete Course"
+msgstr "Удалить курс"
+
+#: includes/bp-sensei-functions.php:374 includes/bp-sensei-functions.php:553
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: includes/bp-sensei-functions.php:389 includes/bp-sensei-functions.php:568
+msgid "Next"
+msgstr "Следующий"
+
+#: includes/bp-sensei-functions.php:399
+msgid "You have no active courses."
+msgstr "У вас нет активных курсов."
+
+#: includes/bp-sensei-functions.php:401
+msgid "This learner has no active courses."
+msgstr "У этого ученика нет активных курсов."
+
+#: includes/bp-sensei-functions.php:526
+msgid "View results"
+msgstr "Результаты"
+
+#: includes/bp-sensei-functions.php:577
+msgid "You have not completed any courses yet."
+msgstr "У вас пока нет завершенных курсов."
+
+#: includes/bp-sensei-functions.php:579
+msgid "This learner has not completed any courses yet."
+msgstr "У этого ученика нет ни одного завершенного курса."
+
+#: includes/bp-sensei-functions.php:844
+msgid "Completed the lesson"
+msgstr "Завершенный урок"
+
+#: includes/bp-sensei-functions.php:846
+msgid "Updates"
+msgstr "Обновления"
+
+#: includes/bp-sensei-functions.php:874
+msgid "%1$s completed the lesson %2$s"
+msgstr "%1$s завершил(а) урок %2$s"
+
+#: includes/bp-sensei-functions.php:885
+msgid "%1$s started taking the course %2$s"
+msgstr "%1$s начал(а) проходить курс %2$s"
+
+#: includes/bp-sensei-functions.php:901
+msgid "%1$s added the lesson %2$s to the course %3$s"
+msgstr "%1$s добавил(а) урок %2$s в курс %3$s"
+
+#: includes/bp-sensei-functions.php:912
+msgid "%1$s completed the course %2$s"
+msgstr "%1$s завершил(а) курс %2$s"
+
+#: includes/bp-sensei-functions.php:922
+msgid "%1$s commented on lesson %2$s"
+msgstr "%1$s прокомментировал(а) урок %2$s"
+
+#: includes/bp-sensei-functions.php:931
+msgid "%1$s has passed the %2$s quiz achieving %3$s %%"
+msgstr "%1$s завершил(а) тест %2$s с результатом %3$s %%"
+
+#: includes/bp-sensei-functions.php:1073
+#, fuzzy
+msgid "You can not send a private message to the teacher %s."
+msgid_plural "You can not send the message to the teachers %s."
+msgstr[0] "Вы не можете отправить приватное сообщение учителю %s."
+msgstr[1] "Вы не можете отправить приватное сообщение учителям %s."
+
+#: includes/bp-sensei-group-experiences.php:23
+msgid "Course"
+msgstr "Курс"
+
+#: includes/bp-sensei-group-experiences.php:60
+msgid "%s Media"
+msgstr ""
+
+#: includes/bp-sensei-group-experiences.php:111
+msgid "Completed"
+msgstr "Завершен"
+
+#: includes/bp-sensei-group-experiences.php:114
+msgid "In progress"
+msgstr "В процессе"
+
+#: includes/bp-sensei-group-experiences.php:212
+msgid "Start %s"
+msgstr "Начать %s"
+
+#: includes/bp-sensei-group-experiences.php:218
+msgid "%s"
+msgstr "%s"
+
+#: includes/bp-sensei-group-experiences.php:223
+msgid "Length: "
+msgstr "Длительность:"
+
+#: includes/bp-sensei-group-experiences.php:223
+msgid " minutes"
+msgstr " минут(ы)"
+
+#: includes/bp-sensei-group-experiences.php:226
+msgid "Author: "
+msgstr "Автор: "
+
+#: includes/bp-sensei-group-experiences.php:229
+msgid "Complexity: "
+msgstr "Завершенность: "
+
+#: includes/bp-sensei-group-experiences.php:233
+msgid "Complete"
+msgstr "Завершено"
+
+#: includes/bp-sensei-group-experiences.php:235
+msgid "In Progress"
+msgstr "В процессе"
+
+#: includes/bp-sensei-group-experiences.php:259
+msgid "This course has no lessons added yet"
+msgstr "В этот курс еще не добавлен ни один урок"
+
+#: includes/bp-sensei-group-settings.php:42
+msgid "Group Course"
+msgstr "Группа курса"
+
+#: includes/bp-sensei-group-settings.php:44 includes/bp-sensei-groups.php:86
+msgid "--Select--"
+msgstr "--Выбрать--"
+
+#: includes/bp-sensei-group-settings.php:66
+msgid "Course Activity"
+msgstr "Активность курса"
+
+#: includes/bp-sensei-group-settings.php:67
+msgid "Which course activity should be displayed in this group?"
+msgstr "Какая активность курса должна отображаться в этой группе?"
+
+#: includes/bp-sensei-group-settings.php:68
+msgid "User starts a course"
+msgstr "Пользователь начал курс"
+
+#: includes/bp-sensei-group-settings.php:69
+msgid "User completes a course"
+msgstr "Пользователь завершил курс"
+
+#: includes/bp-sensei-group-settings.php:70
+msgid "User creates a lesson"
+msgstr "Пользователь создал урок"
+
+#: includes/bp-sensei-group-settings.php:71
+msgid "User completes a lesson"
+msgstr "Пользователь завершил урок"
+
+#: includes/bp-sensei-group-settings.php:72
+msgid "User passes a quiz"
+msgstr "Пользователь прошел тест"
+
+#: includes/bp-sensei-group-settings.php:73
+msgid "User comments on single lesson page"
+msgstr "Комментарии пользователя на странице урока"
+
+#: includes/bp-sensei-groups.php:67
+msgid "Course Group"
+msgstr "Группа курса"
+
+#: includes/bp-sensei-groups.php:84
+msgid "Add this course to a BuddyPress group."
+msgstr "Добавить этот курс в группу BuddyPress."
+
+#: includes/bp-sensei-groups.php:98
+msgid "&#43; Create New Group"
+msgstr "&#43; Создать новую группу"
+
+#: includes/bp-sensei-groups.php:259
+msgid "Private Course Group"
+msgstr "Частная группа курса"
+
+#: includes/bp-sensei-groups.php:262
+msgid "Hidden Course Group"
+msgstr "Скрытая группа курса"
+
+#: includes/bp-sensei-groups.php:278
+msgid "Course Discussion"
+msgstr "Обсуждение курса"
+
+#: includes/bp-sensei-loader.php:360 includes/bp-sensei-loader.php:362
+msgid "Contact %1$s Teacher"
+msgstr "Связаться с учителем %1$s"
+
+#: includes/bp-sensei-loader.php:502
+msgid "Students"
+msgstr "Ученики"
+
+#: includes/bp-sensei-loader.php:503
+msgid "Student"
+msgstr "Ученик"
+
+#: includes/bp-sensei-loader.php:508
+msgid "Teachers"
+msgstr "Учителя"
+
+#: includes/bp-sensei-loader.php:509
+msgid "Teacher"
+msgstr "Учитель"
+
+#: includes/bp-sensei-loader.php:516
+msgid "Teachers <span>%s</span>"
+msgstr "Учителя <span>%s</span>"
+
+#: includes/bp-sensei-loader.php:517
+msgid "Students <span>%s</span>"
+msgstr "Ученики <span>%s</span>"
+
+#: includes/bp-sensei-member-type-migration.php:101
+msgid "Migrating, please wait..."
+msgstr "Идет миграция, пожалуйста, подождите..."
+
+#: includes/bp-sensei-member-type-migration.php:105
+msgid ""
+"Please be patient while the migration. This can take a while if your server "
+"is slow (inexpensive hosting) or if you have many records. Do not navigate "
+"away from this page until this script is done or the records will not be "
+"migrated. You will be notified via this page when the migration is completed."
+msgstr ""
+
+#: includes/bp-sensei-member-type-migration.php:109
+msgid "To go back to the previous page, <a href=\"%s\">click here</a>."
+msgstr ""
+"Чтобы вернуться на предыдущую страницу, <a href=\"%s\">кликните тут</a>."
+
+#: includes/bp-sensei-member-type-migration.php:110
+msgid ""
+"All done! %1$s user(s) were successfully migrated in %2$s seconds and there "
+"were %3$s failure(s). To try migration the failed users again, <a href=\"%4$s"
+"\">click here</a>. %5$s"
+msgstr ""
+
+#: includes/bp-sensei-member-type-migration.php:111
+msgid ""
+"All done! %1$s user(s) were successfully migrated in %2$s seconds and there "
+"were 0 failures. %3$s"
+msgstr ""
+
+#: includes/bp-sensei-member-type-migration.php:115
+msgid "You must enable Javascript in order to proceed!"
+msgstr "Вам необходимо включить Javascript для того, чтобы продолжить!"
+
+#: includes/bp-sensei-member-type-migration.php:122
+msgid "Abort Migration"
+msgstr "Отменить миграцию"
+
+#: includes/bp-sensei-member-type-migration.php:125
+msgid "Migration Information"
+msgstr "Информация о миграции"
+
+#: includes/bp-sensei-member-type-migration.php:128
+msgid "Total Users: %s"
+msgstr "Всего пользователей: %s"
+
+#: includes/bp-sensei-member-type-migration.php:129
+msgid "Users Migrated: %s"
+msgstr "Пользователей перенесено: %s"
+
+#: includes/bp-sensei-member-type-migration.php:130
+msgid "User Migration Failures: %s"
+msgstr "Ошибки переноса пользователей: %s"
+
+#: includes/bp-sensei-member-type-migration.php:159
+msgid "Stopping..."
+msgstr "Остановка..."
+
+#: includes/bp-sensei-member-type-migration.php:207
+msgid ""
+"The migrate request was abnormally terminated (ID %s). This is likely due to "
+"the user exceeding available memory or some other type of fatal error."
+msgstr ""
+
+#: includes/bp-sensei-member-type-migration.php:286
+msgid ""
+"&quot;%1$s&quot; (ID %2$s) failed to resize. The error message was: %3$s"
+msgstr ""
+"&quot;%1$s&quot; (ID %2$s) ошибка масштабирования. Сообщение об ошибке: %3$s"
+
+#: includes/main-class.php:159 includes/main-class.php:166
+msgid "Cheatin&#8217; huh?"
+msgstr "Барахлит, да?"
+
+#: includes/requirements-class.php:22
+msgid ""
+"Please install the <a target=\"_blank\" href=\"http://www.woothemes.com/"
+"products/sensei/\">Sensei</a> plugin first."
+msgstr ""
+"Пожалуйста, сначала установите плагин <a href=\"http://www.woothemes.com/"
+"products/sensei/\">Sensei</a>."
+
+#: includes/requirements-class.php:40
+msgid ""
+"Please install <a href=\"http://www.woothemes.com/products/sensei/\">Sensei</"
+"a> plugin first."
+msgstr ""
+"Пожалуйста, сначала установите плагин <a href=\"http://www.woothemes.com/"
+"products/sensei/\">Sensei</a>."
+
+#: sensei-buddypress.php:73
+msgid "Couldn't load SB_Plugin_Requirements_Check class at:<br/>%s"
+msgstr "Не получилось загрузить класс SB_Plugin_Requirements_Check:<br/>%s"
+
+#: sensei-buddypress.php:79 sensei-buddypress.php:109
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Ошибка приложения:</h1><hr/><pre>%s</pre>"
+
+#: sensei-buddypress.php:104
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Не получилось загрузить основной класс: <br/>%s"
+
+#: templates/active-courses.php:38
+msgid "Take a Course!"
+msgstr "Начать курс!"
+
+#~ msgid "http://woothemes.com/products/sensei-buddypress/"
+#~ msgstr "http://woothemes.com/products/sensei-buddypress/"
+
+#~ msgid ""
+#~ "Integrate the WooThemes Sensei plugin with BuddyPress, so you can add "
+#~ "social activity to your education site."
+#~ msgstr ""
+#~ "Интегрируйте плагин WooThemes Sensei с BuddyPress, так вы сможете "
+#~ "добавить социальную активность на ваш образовательный сайт."
+
+#~ msgid "BuddyBoss"
+#~ msgstr "BuddyBoss"
+
+#~ msgid "http://buddyboss.com"
+#~ msgstr "http://buddyboss.com"

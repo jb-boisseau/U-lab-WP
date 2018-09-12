@@ -1,0 +1,34 @@
+.rmlms-promo-wrap .rmrow.rmlms-banner img  {
+    width: 100%;
+}
+
+.rmlms-action-call {    
+    font-size: 24px;
+    line-height: 42px;
+    text-align: center;
+}
+.rmlms-button-wrap {    
+    text-align: center;
+}
+
+.rmlms-button-wrap a.button{display: inline-block;
+    color: #fff;
+    border: none;
+    background: #ff6c6c;
+    transition: .1s;
+    border-radius: 4px;
+    outline: 0;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 11px 30px;
+    text-transform: uppercase;
+    height: 47px;
+}
+
+.rmlms-button-wrap a.button:hover,
+.rmlms-button-wrap a.button:focus{
+    background-color: #d96666;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+}

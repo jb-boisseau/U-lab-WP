@@ -1,0 +1,32 @@
+# Translation of Themes - Stacy in French (France)
+# This file is distributed under the same license as the Themes - Stacy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-07 10:21:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Stacy\n"
+
+#. Theme Name of the plugin/theme
+msgid "Stacy"
+msgstr "Stacy"
+
+#. Description of the plugin/theme
+msgid "Stacy is a responsive, multi-purpose WordPress theme. It’s flexible and suitable for agencies, blogs, businesses, finance, accounting, consulting, corporations, or portfolios. Customization is easy and straight-forward, with options provided that allow you to setup your site to perfectly fit your desired online presence. For more details, visit this link https://wordpress.org/themes/spicepress/. We hope you will find the Stacy theme useful."
+msgstr "Stacy est un thème WordPress réactif et polyvalent. Il est flexible et adapté pour les agences, les blogs, les entreprises, les corporations ou les portfolios. La personnalisation est facile et directe, avec des options fournies qui vous permettent de configurer votre site pour s’adapter parfaitement à la présence en ligne que vous désirez. Pour plus de détails, visitez ce lien https://wordpress.org/themes/spicepress/. Nous espérons que vous trouverez le thème Stacy utile."
+
+#. Theme URI of the plugin/theme
+msgid "https://spicethemes.com/stacy-wordpress-theme/"
+msgstr "https://spicethemes.com/stacy-wordpress-theme/"
+
+#. Author of the plugin/theme
+msgid "spicethemes.com"
+msgstr "spicethemes.com"
+
+#. Author URI of the plugin/theme
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"

@@ -1,0 +1,46 @@
+# Translation of Themes - Bulk Blog in French (France)
+# This file is distributed under the same license as the Themes - Bulk Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-19 21:23:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Bulk Blog\n"
+
+#. Theme Name of the plugin/theme
+msgid "Bulk Blog"
+msgstr "Bulk Blog"
+
+#. Description of the plugin/theme
+msgid "Bulk Blog is a beautiful, free, WordPress blog theme. With a clean, full-width layout and an animated header image, it's perfect for personal, lifestyle, photography, fashion, food, fitness and travel-related blogs. DEMO: http://bulk.themes4wp.com/bulk-blog/"
+msgstr "Bulk Blog est un beau thème de blog WordPress gratuit. Avec une mise en page en pleine largeur et une image d’en-tête animée. Il est parfait pour des blogs personnels, de style de vie, de photographie, de mode, de cuisine, de fitness ou de voyages. Démo : http://bulk.themes4wp.com/bulk-blog/"
+
+#. translators: %s: link to https://wordpress.org/
+#: functions.php:37
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: functions.php:37
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: %1$s: link to theme page
+#: functions.php:42
+msgid "Theme: %1$s"
+msgstr "Thème : %1$s"
+
+#. Theme URI of the plugin/theme
+msgid "https://themes4wp.com/theme/bulk-blog/"
+msgstr "https://themes4wp.com/theme/bulk-blog/"
+
+#. Author of the plugin/theme
+msgid "Themes4WP"
+msgstr "Themes4WP"
+
+#. Author URI of the plugin/theme
+msgid "https://themes4wp.com/"
+msgstr "https://themes4wp.com/"

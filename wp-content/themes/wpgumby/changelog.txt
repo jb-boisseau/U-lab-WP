@@ -1,0 +1,46 @@
+Theme Name: wpGumby
+Author: ShopitPress.com
+
+1.1.14 - 03/29/2017
+- Fixed compatible with woocommerce 3.0
+
+1.1.13 - 08/22/2016
+- Fixed Related products are to big
+
+1.1.12 - 04/18/2016
+- Fixed SIP Front End Bundler WooCommerce work in product page
+
+1.1.11 - 04/11/2016
+- Fixed iPad Portrait [Use Toggle Menu]
+
+1.1.10 - 02/15/2016
+- Fixed primary Menu
+- Fixed shop content div
+
+1.1.09 - 02/08/2016
+- Bug fixes
+
+1.1.08 - 01/07/2016
+- Added option in customizer to remove front page slider
+- Slider spacing issues fixed
+- Fixed bug that would display boxes and CTA in blog page
+
+1.1.07 - 12/10/2015
+- Displayed slider and area below it under default home page.
+- Fixed tags related issue under portfolio.
+- Fixed icon display related issue.
+- Added hyperlink option under 3 home page boxes
+- Fixed mobile menu issues
+
+1.1.06 - 12/03/2015
+1.1.05 - 11/27/2015
+1.1.04 - 11/16/2015
+1.1.03 - 11/14/2015
+1.1.02 - 11/02/2015
+1.1.01 - 10/26/2015
+**v1.1.0 - 10/24/2015**
+**v1.0.9 - 08/10/2015**
+**v1.0.8 - 07/14/2014**
+**v1.0.3 - 04/22/2014**
+**v1.0.2 - 04/02/2014**
+* Initial release

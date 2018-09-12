@@ -1,0 +1,80 @@
+# Translation of Themes - Shk Corporate in French (France)
+# This file is distributed under the same license as the Themes - Shk Corporate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-21 12:48:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Shk Corporate\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate or any other type of business website. SHK Corporate theme is a child theme of the Appointment WordPress theme. The theme uses the blue color variation that WordPress uses as default. You will find 3 separate header sidebars, which will be placed just above the menu section. The top header section is very useful when it comes to adding social media links, email IDs, contact information and any other important information that you want to share. All you need to do is add a few widgets and you are good to go."
+msgstr "Un thème business idéal pour créer un site d’entreprise ou tout autre type de site d’affaires. Le thème SHK Corporate est un thème enfant du thème WordPress Appointment et en est la variation de la couleur bleue de WordPress utilise par défaut. Vous trouverez 3 colonnes latérales d’en-tête séparées qui seront placées juste au dessus de la section de menu. La section haute d’en-tête est très utile pour ajouter des liens de réseaux sociaux, des IDs d’e-mail, des informations de contact et tout autre information importante que vous voulez partager. Tout ce que vous avez à faire est d’ajouter quelques widgets et vous êtes prêt. "
+
+#. Theme Name of the plugin/theme
+msgid "Shk Corporate"
+msgstr "Shk Corporate"
+
+#: customizer/customizer-pro.php:12
+msgid "UPGRADE TO PRO"
+msgstr "PASSEZ EN PRO"
+
+#: header-widget.php:106
+msgid "Open link in new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: header-widget.php:103
+msgid "Link"
+msgstr "Lien"
+
+#: header-widget.php:100
+msgid "Description"
+msgstr "Description"
+
+#: header-widget.php:98
+msgid "here"
+msgstr "ici"
+
+#: header-widget.php:98
+msgid "Find all icons"
+msgstr "Retrouvez toutes les icônes"
+
+#: header-widget.php:96
+msgid "FontAwesome icon"
+msgstr "Icône Fontawesome"
+
+#: header-widget.php:76 header-widget.php:101
+msgid "Make a reservation: 1-800-123-4567"
+msgstr "Faire une réservation : 1-800-123-4567"
+
+#: header-widget.php:14
+msgid "WBR : Header Widget"
+msgstr "WBR : Widget d’en-tête"
+
+#: functions.php:60 functions.php:62
+msgid "Top header right area"
+msgstr "Zone d’en-tête haute de droite"
+
+#: functions.php:50 functions.php:52
+msgid "Top header center area"
+msgstr "Zone d’en-tête haute centrale"
+
+#: functions.php:40 functions.php:42
+msgid "Top header left area"
+msgstr "Zone d’en-tête haute de gauche"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/shk-corporate-child-version-details-page/"
+msgstr "http://webriti.com/shk-corporate-child-version-details-page/"

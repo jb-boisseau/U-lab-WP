@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<RMagic>
+  <FORMS>
+    <OPTIONS>
+      <form_id>1</form_id>
+      <form_name>Sample Contact Form</form_name>
+      <form_type>0</form_type>
+      <form_user_role/>
+      <default_user_role/>
+      <form_should_send_email>1</form_should_send_email>
+      <form_redirect>none</form_redirect>
+      <form_redirect_to_page>0</form_redirect_to_page>
+      <form_redirect_to_url/>
+      <form_should_auto_expire/>
+      <form_options>O:8:"stdClass":59:{s:13:"hide_username";N;s:23:"form_is_opt_in_checkbox";N;s:19:"mailchimp_relations";N;s:16:"form_opt_in_text";N;s:21:"form_should_user_pick";N;s:20:"form_is_unique_token";N;s:16:"form_description";s:202:"A standard contact form to get your started right away with RegistrationMagic. This form has Name, Phone No., Email and Message fields. To add this form to a page or post, use shortcode [rm_form ID="1"]";s:21:"form_user_field_label";N;s:16:"form_custom_text";s:45:"Please fill out the form below to contact us.";s:20:"form_success_message";s:69:"Thank you! We have received your message and will reply back shortly.";s:18:"form_email_subject";s:29:"We have received your message";s:18:"form_email_content";s:411:"Dear&#xA0;{{Textbox_1234}},&#xD;
+&#xD;
+This is a confirmation of the message you submitted through our site. We shall get back to you soon.&#xD;
+&#xD;
+For your reference, below is a copy of your message. If any information is incorrect, please submit the form again with correct information.&#xD;
+&#xD;
+Thank you!&#xD;
+&#xD;
+Your Name:&#xA0;{{Textbox_1234}}&#xD;
+&#xD;
+Your Phone:&#xA0;{{Number_1235}}&#xD;
+&#xD;
+Your Email:&#xA0;{{Email_1233}}&#xD;
+&#xD;
+Message:&#xA0;{{Textarea_1236}}";s:21:"form_submit_btn_label";s:4:"Send";s:21:"form_submit_btn_color";N;s:25:"form_submit_btn_bck_color";N;s:15:"form_expired_by";N;s:22:"form_submissions_limit";N;s:16:"form_expiry_date";N;s:25:"form_message_after_expiry";N;s:14:"mailchimp_list";N;s:22:"mailchimp_mapped_email";N;s:27:"mailchimp_mapped_first_name";N;s:26:"mailchimp_mapped_last_name";N;s:25:"should_export_submissions";i:0;s:25:"export_submissions_to_url";N;s:10:"form_pages";N;s:14:"access_control";N;s:14:"style_btnfield";N;s:10:"style_form";N;s:15:"style_textfield";N;s:10:"auto_login";N;s:12:"cc_relations";N;s:7:"cc_list";N;s:19:"form_opt_in_text_cc";N;s:26:"form_is_opt_in_checkbox_cc";N;s:12:"aw_relations";N;s:7:"aw_list";N;s:19:"form_opt_in_text_aw";N;s:26:"form_is_opt_in_checkbox_aw";N;s:14:"enable_captcha";s:7:"default";s:16:"enable_mailchimp";N;s:15:"enable_ccontact";N;s:13:"enable_aweber";N;s:20:"display_progress_bar";s:7:"default";s:18:"sub_limit_antispam";N;s:15:"placeholder_css";N;s:15:"btn_hover_color";N;s:20:"field_bg_focus_color";N;s:16:"text_focus_color";N;s:13:"style_section";N;s:11:"style_label";N;s:18:"post_expiry_action";N;s:19:"post_expiry_form_id";N;s:14:"no_prev_button";i:1;s:18:"user_auto_approval";s:7:"default";s:25:"form_opt_in_default_state";N;s:28:"form_opt_in_default_state_cc";N;s:28:"form_opt_in_default_state_aw";N;s:18:"ordered_form_pages";N;}</form_options>
+      <created_on>2016-12-15 06:31:04</created_on>
+      <created_by>1</created_by>
+      <modified_on>2016-12-15 06:51:04</modified_on>
+      <modified_by>1</modified_by>
+    </OPTIONS>
+    <FIELDS>
+      <field_id>1</field_id>
+      <form_id>1</form_id>
+      <page_no>1</page_no>
+      <field_label>Your Email</field_label>
+      <field_type>Email</field_type>
+      <field_value/>
+      <field_order>2</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>1</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";N;s:14:"field_timezone";N;s:16:"field_max_length";N;s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";N;s:27:"field_is_required_min_range";N;s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:22:"rm_form_default_fields";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";s:1:"1";s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";N;s:9:"help_text";s:73:"Please enter an email address where we can send response to your message.";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:7:"&amp;#xe158";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";N;s:17:"custom_validation";N;s:12:"tnc_cb_label";N;}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>2</field_id>
+      <form_id>1</form_id>
+      <page_no>1</page_no>
+      <field_label>Your Name</field_label>
+      <field_type>Textbox</field_type>
+      <field_value/>
+      <field_order>0</field_order>
+      <field_show_on_user_page>1</field_show_on_user_page>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";s:0:"";s:14:"field_timezone";N;s:16:"field_max_length";s:0:"";s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";i:1;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:28:"Please enter your full name.";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:7:"&amp;#xe7fd";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>3</field_id>
+      <form_id>1</form_id>
+      <page_no>1</page_no>
+      <field_label>Your Phone Number</field_label>
+      <field_type>Number</field_type>
+      <field_value/>
+      <field_order>1</field_order>
+      <field_show_on_user_page>1</field_show_on_user_page>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>1</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";N;s:14:"field_timezone";N;s:16:"field_max_length";s:2:"14";s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";N;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:43:"Phone number can help us reach you quickly.";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:7:"&amp;#xe0b0";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>4</field_id>
+      <form_id>1</form_id>
+      <page_no>1</page_no>
+      <field_label>Message</field_label>
+      <field_type>Textarea</field_type>
+      <field_value/>
+      <field_order>3</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";s:28:"Type in your message here...";s:14:"field_timezone";N;s:16:"field_max_length";s:0:"";s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";s:0:"";s:19:"field_textarea_rows";s:0:"";s:17:"field_is_required";N;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:0:"";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:7:"&amp;#xe0b7";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+  </FORMS>
+  <FORMS>
+    <OPTIONS>
+      <form_id>2</form_id>
+      <form_name>Sample Registration Form</form_name>
+      <form_type>1</form_type>
+      <form_user_role>a:0:{}</form_user_role>
+      <default_user_role>subscriber</default_user_role>
+      <form_should_send_email>1</form_should_send_email>
+      <form_redirect>none</form_redirect>
+      <form_redirect_to_page>0</form_redirect_to_page>
+      <form_redirect_to_url/>
+      <form_should_auto_expire/>
+      <form_options>O:8:"stdClass":59:{s:13:"hide_username";i:0;s:23:"form_is_opt_in_checkbox";N;s:19:"mailchimp_relations";N;s:16:"form_opt_in_text";N;s:21:"form_should_user_pick";N;s:20:"form_is_unique_token";N;s:16:"form_description";s:415:"This is a sample registration form that can be used to register users on your WordPress site. The form includes Username, Password, First Name, Last Name, Email, Website and Terms and Conditions fields. Feel free to edit them, remove them or add new ones as it suits your needs.&#xD;
+&#xD;
+Please note, T&amp;C field currently has dummy text. You will need to paste actual text of your terms and condition by editing the field.";s:21:"form_user_field_label";s:0:"";s:16:"form_custom_text";s:48:"Register with us by filling out&#xA0;the form below.";s:20:"form_success_message";s:105:"Thank you for registering with us! Once your account is active, we'll send you an email with the details.";s:18:"form_email_subject";s:10:"Thank you!";s:18:"form_email_content";s:183:"Hello&#xA0;{{Fname_1238}},&#xD;
+&#xD;
+Thank you for registering with us. You will soon receive an account activation email. After that you can log into our website through login page.&#xD;
+&#xD;
+Regards.";s:21:"form_submit_btn_label";s:0:"";s:21:"form_submit_btn_color";N;s:25:"form_submit_btn_bck_color";N;s:15:"form_expired_by";N;s:22:"form_submissions_limit";N;s:16:"form_expiry_date";N;s:25:"form_message_after_expiry";N;s:14:"mailchimp_list";N;s:22:"mailchimp_mapped_email";N;s:27:"mailchimp_mapped_first_name";N;s:26:"mailchimp_mapped_last_name";N;s:25:"should_export_submissions";i:0;s:25:"export_submissions_to_url";N;s:10:"form_pages";N;s:14:"access_control";N;s:14:"style_btnfield";s:0:"";s:10:"style_form";s:0:"";s:15:"style_textfield";s:0:"";s:10:"auto_login";N;s:12:"cc_relations";N;s:7:"cc_list";N;s:19:"form_opt_in_text_cc";N;s:26:"form_is_opt_in_checkbox_cc";N;s:12:"aw_relations";N;s:7:"aw_list";N;s:19:"form_opt_in_text_aw";N;s:26:"form_is_opt_in_checkbox_aw";N;s:14:"enable_captcha";s:7:"default";s:16:"enable_mailchimp";N;s:15:"enable_ccontact";N;s:13:"enable_aweber";N;s:20:"display_progress_bar";s:7:"default";s:18:"sub_limit_antispam";N;s:15:"placeholder_css";s:0:"";s:15:"btn_hover_color";s:0:"";s:20:"field_bg_focus_color";s:0:"";s:16:"text_focus_color";s:0:"";s:13:"style_section";s:0:"";s:11:"style_label";s:0:"";s:18:"post_expiry_action";N;s:19:"post_expiry_form_id";N;s:14:"no_prev_button";i:1;s:18:"user_auto_approval";s:7:"default";s:25:"form_opt_in_default_state";N;s:28:"form_opt_in_default_state_cc";N;s:28:"form_opt_in_default_state_aw";N;s:18:"ordered_form_pages";N;}</form_options>
+      <created_on>2016-12-15 07:19:35</created_on>
+      <created_by>1</created_by>
+      <modified_on>2016-12-15 09:16:52</modified_on>
+      <modified_by>1</modified_by>
+    </OPTIONS>
+    <FIELDS>
+      <field_id>5</field_id>
+      <form_id>2</form_id>
+      <page_no>1</page_no>
+      <field_label>Email</field_label>
+      <field_type>Email</field_type>
+      <field_value/>
+      <field_order>3</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>1</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";N;s:14:"field_timezone";N;s:16:"field_max_length";N;s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";N;s:27:"field_is_required_min_range";N;s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:22:"rm_form_default_fields";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";s:1:"1";s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";N;s:9:"help_text";s:0:"";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:7:"&amp;#xe0be";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";N;s:17:"custom_validation";N;s:12:"tnc_cb_label";N;}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>6</field_id>
+      <form_id>2</form_id>
+      <page_no>1</page_no>
+      <field_label>First Name</field_label>
+      <field_type>Fname</field_type>
+      <field_value/>
+      <field_order>1</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";s:0:"";s:14:"field_timezone";N;s:16:"field_max_length";s:0:"";s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";i:1;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:0:"";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:7:"&amp;#xe7fd";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>7</field_id>
+      <form_id>2</form_id>
+      <page_no>1</page_no>
+      <field_label>Last Name</field_label>
+      <field_type>Lname</field_type>
+      <field_value/>
+      <field_order>2</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";s:0:"";s:14:"field_timezone";N;s:16:"field_max_length";s:0:"";s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";N;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:0:"";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:7:"&amp;#xe7fd";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>8</field_id>
+      <form_id>2</form_id>
+      <page_no>1</page_no>
+      <field_label>Website</field_label>
+      <field_type>Website</field_type>
+      <field_value/>
+      <field_order>4</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>1</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";N;s:14:"field_timezone";N;s:16:"field_max_length";N;s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";N;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:30:"URL of your website (optional)";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:7:"&amp;#xe894";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>9</field_id>
+      <form_id>2</form_id>
+      <page_no>1</page_no>
+      <field_label>Do you agree with our terms and conditions?</field_label>
+      <field_type>Terms</field_type>
+      <field_value>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempor metus nec elit auctor venenatis non facilisis nibh. In lorem neque, vulputate id metus id, rhoncus convallis eros. In urna erat, accumsan quis pretium nec, posuere in arcu. Nulla eleifend aliquet accumsan. Pellentesque consectetur sollicitudin orci nec suscipit. Donec sit amet risus suscipit, gravida nulla semper, interdum tellus. In cursus ultricies turpis, quis suscipit massa faucibus et. Vestibulum euismod est ac vehicula viverra. Aliquam quis est quis eros feugiat varius a non ligula.</field_value>
+      <field_order>6</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";N;s:14:"field_timezone";N;s:16:"field_max_length";N;s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";i:1;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:0:"";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:0:"";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:13:"Yes, I agree.";}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>10</field_id>
+      <form_id>2</form_id>
+      <page_no>1</page_no>
+      <field_label>Divider</field_label>
+      <field_type>Divider</field_type>
+      <field_value/>
+      <field_order>0</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";N;s:14:"field_timezone";N;s:16:"field_max_length";N;s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";N;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:0:"";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:0:"";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>11</field_id>
+      <form_id>2</form_id>
+      <page_no>1</page_no>
+      <field_label>Divider</field_label>
+      <field_type>Divider</field_type>
+      <field_value/>
+      <field_order>5</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";N;s:14:"field_timezone";N;s:16:"field_max_length";N;s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";N;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:0:"";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:0:"";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+    <FIELDS>
+      <field_id>12</field_id>
+      <form_id>2</form_id>
+      <page_no>1</page_no>
+      <field_label>Divider</field_label>
+      <field_type>Divider</field_type>
+      <field_value/>
+      <field_order>7</field_order>
+      <field_show_on_user_page/>
+      <is_field_primary>0</is_field_primary>
+      <field_is_editable>0</field_is_editable>
+      <field_options>O:8:"stdClass":21:{s:18:"field_is_multiline";N;s:17:"field_placeholder";N;s:14:"field_timezone";N;s:16:"field_max_length";N;s:23:"field_is_required_range";N;s:27:"field_is_required_max_range";s:0:"";s:27:"field_is_required_min_range";s:0:"";s:24:"field_is_required_scroll";N;s:19:"field_default_value";N;s:15:"field_css_class";s:0:"";s:22:"field_textarea_columns";N;s:19:"field_textarea_rows";N;s:17:"field_is_required";N;s:21:"field_is_show_asterix";N;s:18:"field_is_read_only";N;s:21:"field_is_other_option";s:0:"";s:9:"help_text";s:0:"";s:4:"icon";O:8:"stdClass":5:{s:9:"codepoint";s:0:"";s:8:"fg_color";s:6:"000000";s:8:"bg_color";s:6:"FFFFFF";s:5:"shape";s:6:"square";s:8:"bg_alpha";s:1:"1";}s:16:"field_validation";s:0:"";s:17:"custom_validation";s:0:"";s:12:"tnc_cb_label";s:0:"";}</field_options>
+    </FIELDS>
+  </FORMS>
+</RMagic>
